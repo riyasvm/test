@@ -2,6 +2,12 @@ AE B2B - G9 BOOKINGS GETTING FAILED   ---------Justin
 
 SA B2B - PK CONTACT DETAILS NOT PICKING IN 1G------   Justin
 
+AE B2B - USER BLOCKED ERROR------shipin
+AE B2B - OTP SHOWING INVALID WHILE LOGIN THROUGH ATI ----- shipin
+
+ENABLE HOTEL HOLD OPTION // B2B UAE----------To nimisha
+
+
 modified
 
 
